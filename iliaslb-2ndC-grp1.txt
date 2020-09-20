@@ -1,5 +1,0 @@
-Sami
-7C:FD:6B:33:13:F8
-Ilias
-7C:FD:6B:33:13:FE
-END
