@@ -11,5 +11,3 @@ Brakez Al Hassan
 Ahmed Charbadoui
 Diouri Zaid
 Inas El Fallah
-END
-END
